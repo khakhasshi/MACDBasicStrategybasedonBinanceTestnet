@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
 [![Binance API](https://img.shields.io/badge/Binance%20API-Spot%20%26%20Futures-yellow.svg)](https://binance-docs.github.io/apidocs/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 ---
 
@@ -120,5 +120,5 @@ BINANCE_FUTURES_API_SECRET=your_futures_secret
 ---
 
 ## 📄 License / 许可证
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+本项目采用 Apache 2.0 许可证 - 详见 [LICENSE](LICENSE) 文件。
